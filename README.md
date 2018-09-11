@@ -6,3 +6,4 @@
 #### (2) Classifying employees to high risk, medium risk, and low risk depending on their potential risk of quitting work using predictive machine learning models. After my project, the HR manager was able to specifically target the high risk employees and concentrate his resources(e.g. 1:1 consulation, potential pay raise etc.) towards them.
 
 ### Due to the privacy, the HR data itself cannot be disclosed for confidentiality. I only uploaded my code for data analysis in which the output was all erased.
+### For more information about Family Services, check the following link: http://familyservicesny.org/
